@@ -35,17 +35,6 @@
         <url>https://github.com/messenger4j/messenger4j/tree/master</url>
     </scm>
 
-    <distributionManagement>
-        <repository>
-            <id>releases</id>
-            <url>https://s08983dv.servers.kbc.be:6087/nexus/content/repositories/releases-agf</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <url>https://s08983dv.servers.kbc.be:6087/nexus/content/repositories/snapshots-agf</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
